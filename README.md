@@ -5,6 +5,8 @@
 
 *DAFT-MX-2021/10/08*
 
+IMPORTANT: The jupyter notebook file is quite large. If github doesn't charge, use: https://nbviewer.org
+
 ## Content
 - [Project Description](#project-description)
 - [Instructions](#instructions)
